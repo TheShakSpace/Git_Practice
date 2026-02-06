@@ -22,3 +22,4 @@ Common Git Commands:
 20. git tag <tag> - Create a tag
 
 # Added a note for commit 2: Remember to pull before pushing!
+# Commit 4: Added another tip: Use git log --oneline for quick history
